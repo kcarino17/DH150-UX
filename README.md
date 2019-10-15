@@ -1,7 +1,7 @@
 # Health News Heuristic Evaluation
 by Kat Carino *DH150*
 
-Website: (https://www.medicalnewstoday.com/)
+Website: [Link to website](https://www.medicalnewstoday.com/)
 
 Medical News Today is a website that contains news articles pertaining to health. It covers a wide range of topics from the general "Men's Health" to the more specific "Hematology". The website provides daily news, general knowledge articles, listicles, and in-depth coverage of different health issues and topics.
 
