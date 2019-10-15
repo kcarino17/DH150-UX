@@ -1,11 +1,18 @@
-# Health News
+# Health News Heuristic Evaluation
 by Kat Carino *DH150*
 
 Website: (https://www.medicalnewstoday.com/)
 
 Medical News Today is a website that contains news articles pertaining to health. It covers a wide range of topics from the general "Men's Health" to the more specific "Hematology". 
-
+   
+   **Homepage**
 ![Health News screenshot](https://kcarino17.github.io/DH150-UX/HealthNewsHome.png)
+
+   **Menu**
+![Health News screenshot](https://kcarino17.github.io/DH150-UX/HealthNewsMenu.png)
+
+   **Article**
+ ![Health News screenshot](https://kcarino17.github.io/DH150-UX/HealthNewsArticle.png)
 
 ### 10 Heuristics Analysis
 
@@ -17,23 +24,32 @@ Medical News Today is a website that contains news articles pertaining to health
    - "Menu" on the website is divided into two subsections: "top categories" are listed in one part of the menu and and the other provides links to the glossary of other categories in alphabetical order. This may be helpful to some but I think more guidance and sorting of categories by the web designer would be a more helpful method of organization. That way, the user doesn’t have to check if their topic of interest is in the “popular” category already. **(2)**
    - On the home page, articles are divided into categories of topic or specific formats but none of these categories are present on the menu bar at the top. Examples of these are “Through my eyes”, “animal science”, etc. **(1)**
    - When you go to the page of a certain topic, the first link at the top is the in-depth article defining the problem. This could be helpful for those doing research to get as much information as possible. 
-
-   **Website menu**
-![Health News screenshot](https://kcarino17.github.io/DH150-UX/HealthNewsMenu.png)
+   - There are few indicators on the website that give insight into how the website can be navigated by users. There is minimal organization of topics. THere should be clearer diferentiation of categories between articles. **(3)**
 
 **3. User control and freedom**
    - Users can skip to certain subsections of each article by clicking that subsection’s title at the top of the article. However, once chosen, the article scrolls all the way down to that subsection and does not provide the user with a method of going back to the top to browse the other subsections. **(2)**
    - Many links in the articles send users to a different website. There is no warning of this change before it is done. However, the link opens a new tab so if a user wanted to return to the article, they could just exit out of the tab and go back to the page they were originally on. **(1)**
 
 **4. Consistency and standards**
+   - Articles in English and in Spanish are provided but they are mixed amongst one another on the website. There is no designated space to filter through just English or just Spanish language articles. **(2)**
+   - Some articles have links to subtopics at the top of the article, while others do not. This is an example of inconsistent style. It leads the user to wonder if there is a differentiation between articles that do have links to subtopics at the top and articles that do not. **(1)**
+   - Sometimes when a topic that has an article associated with it appears in one article there is a link provided to more information, other times there is no link. It would be helpful if there were more consistency in the formation of articles, considering how many are available on the website. **(1)**
 
 **5. Error Prevention**
+   - At the bottom of a category page there is a scrollbar that will send the user to another topic in the “knowledge center”. If a user accidentally clicks one of the results, they are immediately taken to the page selected, rather than given a “submit” or “confirm” button to confirm their choice. This could lead to frustration in the user for being led to a completely different page without warning **(2)**
+   - Advertisements are all text based, use similar font to the article, and are placed in the middle of articles. Users could easily accidentally click on advertisements or read them as part of the article, confusing their reading. **(3)**
 
 **6. Recognition rather than recall**
+   - There are few icons used on this website. Almost all links (besides the menu and search bar) are text-based and require the user to read them to understand what they are clicking on. Considering the bilingual nature of the website as mentioned in heuristic #4, it would be helpful to provide indications of what categories are referring to, beyond the english words that describe them. **(3)**
+   - For a health news website like this one specifically, it would also be useful if the search bar returned suggested search results, to help users who may not know exactly what they are looking for. **(2)**
 
 **7. Flexibility and efficiency of use**
+   - There are no accelerators apparent in the website. Some possible accelerators could be an advanced search option, which would allow users to look for articles using things like date published, author, or editor rather than just topic. **(2)**
 
 **8. Aesthetic and minimalist design**
+   - The website uses a simple, consistent color scheme and easy to read font. This is good for making the website pleasing to the eye and navigable!
+   - The site is very text heavy and organized in such a way that it feels like you are reading multiple paragraphs. The headlines could be shortened or the layout could be condensed. **(1)**
+   - Articles themselves are well organized, with subheaders to help readers navigate through the information given.
 
 **9. Help users recognize, diagnose, and recover from errors**
 
