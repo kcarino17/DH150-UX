@@ -1,6 +1,6 @@
-# Health for Girls
+# Health News
 by Kat Carino *DH150*
 
-Website: (girlshealth.gov)
-Girlshealth.gov is a health information website catered to the specific issues and questions that girls (pre-teen and teenage) may have. It covers a wide range of topics from general physical health issues such as fitness and nutrition to mental and relationaship health issues such as bullying and emotions.
-![girlshealth screenshot](https://kcarino17.github.io/DH150-UX/SmartSelectImage_2019-10-10-22-47-14.png)
+Website: (https://www.medicalnewstoday.com/)
+Medical News Today is a website that contains news articles pertaining to health. It covers a wide range of topics from the general "Men's Health" to the more specific "Hematology"
+![Health News screenshot](https://kcarino17.github.io/DH150-UX/HealthNewsHome.png)
