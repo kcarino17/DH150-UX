@@ -3,7 +3,9 @@ by Kat Carino *DH150*
 
 Website: (https://www.medicalnewstoday.com/)
 
-Medical News Today is a website that contains news articles pertaining to health. It covers a wide range of topics from the general "Men's Health" to the more specific "Hematology". 
+Medical News Today is a website that contains news articles pertaining to health. It covers a wide range of topics from the general "Men's Health" to the more specific "Hematology". The website provides daily news, general knowledge articles, listicles, and in-depth coverage of different health issues and topics.
+
+Overall, the website has a modern and simple aesthetic that gives the illusion of a well-designed website. Yet, the website has many organizational issues that make navigating through the content difficult. A smoother user experience can be made possible with more intuitive organization of topics and different sections of the website. Additionally, there should be more of a distinction between the different kinds of content provided, rather than just throwing all text based posts into one category.
    
    **Homepage**
 ![Health News screenshot](https://kcarino17.github.io/DH150-UX/HealthNewsHome.png)
