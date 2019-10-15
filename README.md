@@ -24,7 +24,7 @@ Medical News Today is a website that contains news articles pertaining to health
    - "Menu" on the website is divided into two subsections: "top categories" are listed in one part of the menu and and the other provides links to the glossary of other categories in alphabetical order. This may be helpful to some but I think more guidance and sorting of categories by the web designer would be a more helpful method of organization. That way, the user doesn’t have to check if their topic of interest is in the “popular” category already. **(2)**
    - On the home page, articles are divided into categories of topic or specific formats but none of these categories are present on the menu bar at the top. Examples of these are “Through my eyes”, “animal science”, etc. **(1)**
    - When you go to the page of a certain topic, the first link at the top is the in-depth article defining the problem. This could be helpful for those doing research to get as much information as possible. 
-   - There are few indicators on the website that give insight into how the website can be navigated by users. There is minimal organization of topics. THere should be clearer diferentiation of categories between articles. **(3)**
+   - There are few indicators on the website that give insight into how the website can be navigated by users. There is minimal organization of topics. There should be clearer diferentiation of categories between articles. **(3)**
 
 **3. User control and freedom**
    - Users can skip to certain subsections of each article by clicking that subsection’s title at the top of the article. However, once chosen, the article scrolls all the way down to that subsection and does not provide the user with a method of going back to the top to browse the other subsections. **(2)**
@@ -45,6 +45,7 @@ Medical News Today is a website that contains news articles pertaining to health
 
 **7. Flexibility and efficiency of use**
    - There are no accelerators apparent in the website. Some possible accelerators could be an advanced search option, which would allow users to look for articles using things like date published, author, or editor rather than just topic. **(2)**
+   - The sidebars of the website are provide quick suggestions for articles that are trending on the website, which may help users to browse through and find articles/information they were not otherwise looking for.
 
 **8. Aesthetic and minimalist design**
    - The website uses a simple, consistent color scheme and easy to read font. This is good for making the website pleasing to the eye and navigable!
@@ -52,5 +53,8 @@ Medical News Today is a website that contains news articles pertaining to health
    - Articles themselves are well organized, with subheaders to help readers navigate through the information given.
 
 **9. Help users recognize, diagnose, and recover from errors**
+   - If a page does not exist, there is a custom error page. This is good and keeps the website stylistically consistent! There are also links to the side and at the top so that the user can navigate back to the website's content. 
+   - When signing up for the newsletter, the system is able to tell if an invalid email address has been entered. This is good for letting the user know if they have accidentally typed their email in wrong and ensuring that they are able to sign up for the content that they want.
 
 **10. Help and documentation**
+   - There is no "Help" page available. However, for the casual user, there should be no need to use a help feature for the purposes of this website, because it is primarily for providing information. If a user has questions, there is a "Contact Us" page at the very bottom.
