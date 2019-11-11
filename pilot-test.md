@@ -1,4 +1,4 @@
-#Pilot Test for Medical News Today
+# Pilot Test for Medical News Today
 
 Usability testing is an important aspect of product design because it gives the designer feedback on how someone who is unfamiliar with the product will interact with the product. This is important because as the designer, it is often difficult to predict how the target audience will react to and understand the product because of the designer’s familiarity with it. For my usability pilot test, I will be testing the usability of a medical news website for finding news and medical information. Based on my heuristic evaluation, I will be testing mostly for the user’s understanding of the website’s purpose. I will also be testing how navigable the website is, based on the site’s organization and layout. 
 
