@@ -7,8 +7,8 @@ One of the most difficult parts of being a college student is the transition bet
 To gain more information about what a user would want from this app, I decided to hold an in-person interview with a busy college student in order to find out more about their organizational style, what they personally are looking to improve or keep track of in their life, and the tools that they already like using to help them maintain the lifestyle that they want.
 
 ## Interview Transcript
-[Interview Audio] (https://kcarino17.github.io/DH150-UX/assignment5/Note-20191111-2251-otter.ai.mp3)
-[Interview Transcript] (https://kcarino17.github.io/DH150-UX/assignment5/Note-20191111-2251-otter.ai.txt)
+[Interview Audio](https://kcarino17.github.io/DH150-UX/assignment5/Note-20191111-2251-otter.ai.mp3)
+[Interview Transcript](https://kcarino17.github.io/DH150-UX/assignment5/Note-20191111-2251-otter.ai.txt)
 
 ## Reflection
 While conducting my contextual inquiry, I found it most helpful to treat the interview like a conversation. I had a list of questions that I had prepared but as I conducted the interview, I came up with additional questions on the spot in order to inquire further into certain things that my subject mentioned. I found this adaptable style of interview to be very beneficial for my data collection. I learned that my subject used mental reminders to motivate himself and that in terms of getting things done and organizing his life he preferred visual manifestations and enjoyed the satisfaction of crossing items off a list. This information is very helpful to me in determining the type of layout that a typical user would find most useful when using my project. I found the interview to be very insightful. I would ideally like to conduct interviews with more people to find out what other college students prefer in terms of their health habits and the organizational tools that they use. 
