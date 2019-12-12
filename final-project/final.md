@@ -37,9 +37,7 @@ The three main things that I wanted to design in this app were the main page, th
 [This](https://xd.adobe.com/view/637c76e1-67de-482e-53ce-179da3d37fe5-154d/?fullscreen&hints=off) is my high fidelity prototype. You can interact with it to try out the scenarios that a user would experience in order to use the app. I wanted the user to be able to change the time that they would set their alarm, change their goals or habits, and view their calendar. 
 
 ## Usability Test
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=watch?v=-Ddl4dxGP5U
-" target="_blank"><img src="http://img.youtube.com/vi/watch?v=-Ddl4dxGP5U/0.jpg" 
-alt="Usability Test" width="240" height="180" border="10" /></a>
+
 
 [![Usability Test](http://img.youtube.com/vi/-Ddl4dxGP5UE/0.jpg)](http://www.youtube.com/watch?v=-Ddl4dxGP5U)
 
