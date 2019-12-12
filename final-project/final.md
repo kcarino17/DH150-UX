@@ -41,4 +41,6 @@ The three main things that I wanted to design in this app were the main page, th
 " target="_blank"><img src="http://img.youtube.com/vi/watch?v=-Ddl4dxGP5U/0.jpg" 
 alt="Usability Test" width="240" height="180" border="10" /></a>
 
+I had a user test my app to see how intuitive my features actually were. She found the app to be easily navigable and clean. However, she felt that the lack of completion feedback made it confusing to know when a task was completed. I think in working on the design more in the future, I will try to create a more satisfying completion signal for accomplishing tasks in this app. Altogether, my user found the app to be very straightforward and organized. She felt that completing the given tasks did not take too long and they were not difficult to figure out.
+
 ## Pitch Video
